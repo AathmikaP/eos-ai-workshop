@@ -11,4 +11,8 @@ structural details like necklines and sleeve cuts that the model currently can't
 
 **REFLECTION B6**
 
-The persona breaks most reliable in open-ended and factual questions. It often ends up in a loop or hallucinating. Adding more details to the prompt would help. eg. 'Dont repeat phrases'. But it would not fix the problem entirely. Ultimately the model is too small. I would reach for GPT-4 or Claude when I require more skillful answers and when I need it to hold up a long conversation.
+The persona breaks most reliable in open-ended and factual questions. It often ends up in a loop or hallucinating and doesn't really stick to its persona be it the way it talks or what it talks about. It starts sounding generic in these areas instead of bringing the conversation back to dogs like its supposed to. 
+
+Adding more details to the prompt would help. eg. 'Dont repeat phrases'. But it would not fix the problem entirely. 
+
+Ultimately the model is too small. I would reach for GPT-4 or Claude when I require more skillful answers and when I need it to hold up a long conversation.
